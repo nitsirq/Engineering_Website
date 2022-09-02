@@ -2,22 +2,26 @@ body {
     background-color: powderblue;
 }
 
-h1   {
+h1 {
     font-size: 190%;
     color: blue;
 }
 
+h2 {
+    font-size: 130%;
+}
+
+p {
+    margin-top: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
 img {
-    margin-top: 2%;
-    height: auto;
     border: solid;
     border-color: darkblue;
     border-radius: 8px;
     float: none;
 }
 
-p {
-    margin-top: 10px;
-    margin-right: 20%;
-    margin-left: 20%;
-}
+
