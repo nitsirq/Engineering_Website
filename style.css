@@ -23,5 +23,21 @@ img {
     border-radius: 8px;
     float: none;
 }
+ 
+ul {
+    margin: 0;
+    position: absolute;
+}
 
+ul li {
+    list-style: none;
+    color: blue;
+    float: left;
+    font-size: 40px;
+    transition: 0.8s;
+}
+ 
+ul:hover li {
+    transform: rotateY(360deg);
+}
 
